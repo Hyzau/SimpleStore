@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+	"noImplicitAny": true,
+    "module": "ES2015",
+    "declaration": true,
+    "strict": true
+  }
+}
